@@ -15,7 +15,6 @@
 <p align="center" style="font-wghit:600; color:#333;">I'm a Computer Science student who’s passionate about Front-End Web Development.  
 I love turning ideas into clean, interactive, and responsive user interfaces.</p>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alaaeliwa&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 ## About Me  
 
 🔭 I'm working on daily UI projects to improve my skills  
