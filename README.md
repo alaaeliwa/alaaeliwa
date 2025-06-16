@@ -2,6 +2,7 @@
 <p align="center" style="font-wghit:600; color:#333;">I'm a Computer Science student who’s passionate about Front-End Web Development.  
 I love turning ideas into clean, interactive, and responsive user interfaces.</p>
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alaaeliwa&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 ## About Me  
 
 🔭 I'm working on daily UI projects to improve my skills  
@@ -16,12 +17,11 @@ I love turning ideas into clean, interactive, and responsive user interfaces.</p
 <br>
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alaaeliwa&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+
 <br>
 <br>
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+<img src="https://raw.githubusercontent.com/alaaeliwa/alaaeliwa/output/snake-alaa.svg" alt="snake animation">
+
 <h2>🌱 Ongoing Journey</h2>
 Every day, I work on small UI projects to strengthen my understanding of layout, responsiveness, and clean design.  
 I'm building a solid front-end foundation before moving to advanced tools and frameworks.
