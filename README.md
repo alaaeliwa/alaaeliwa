@@ -20,7 +20,9 @@ I love turning ideas into clean, interactive, and responsive user interfaces.</p
 
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/alaaeliwa/alaaeliwa/output/snake-alaa.svg" alt="snake animation">
+  
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
+
 
 <h2>🌱 Ongoing Journey</h2>
 Every day, I work on small UI projects to strengthen my understanding of layout, responsiveness, and clean design.  
