@@ -1,4 +1,17 @@
 <h1>Hi there 👋 I'm Alaa</h1>
+<h1 align="center">
+  <img src="GIF/Earth.gif" width="24px"/>
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  <img src="GIF/Hi.gif" width="40px" />
+</h1>
+
+<p align="center">
+  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=alaaeliwa&style=flat&color=blue"/> •   
+<!--   <a href="https://user-badge.committers.top/india_private/alaaeliwa"><img src="https://user-badge.committers.top/india_private/JayantGoel001.svg"/></a> • -->
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/alaaeliwa?label=Followers&style=social"/> •
+  <img src="https://img.shields.io/github/stars/alaaeliwa?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/> •
+  <a href="https://github.com/sponsors/alaaeliwa"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
+</p>
 <p align="center" style="font-wghit:600; color:#333;">I'm a Computer Science student who’s passionate about Front-End Web Development.  
 I love turning ideas into clean, interactive, and responsive user interfaces.</p>
 <br>
@@ -21,7 +34,6 @@ I love turning ideas into clean, interactive, and responsive user interfaces.</p
 <br>
 <br>
   
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
 
 
 <h2>🌱 Ongoing Journey</h2>
